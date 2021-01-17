@@ -1,0 +1,79 @@
+.banner {
+    background-image: url(img/banner.fw.png);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 600px;
+}
+
+.navbar {
+    opacity: .8;
+}
+
+.yazi {
+    letter-spacing: 2.5px;
+    left: 420px;
+    bottom: 200px;
+}
+
+#yazi {
+    letter-spacing: 0px;
+}
+
+#birincicerik,
+#enalt {
+    background-color: #F9F9F9;
+}
+
+#beyaz {
+    font-size: 30px;
+    background-color: #F9F9F9;
+    position: relative;
+    width: 38%;
+    top: -40px;
+}
+
+.ikincicerik {
+    background-color: #2C2C2C;
+}
+
+#paraf {
+    font-size: 22px;
+    background-color: #2C2C2C;
+    position: relative;
+    width: 26%;
+    top: -35px;
+}
+
+#alt {
+    background-color: white;
+    position: relative;
+    width: 18%;
+    top: -30px;
+}
+
+span {
+    font-size: 14px;
+}
+
+#enaltbas {
+    background-color: #F9F9F9;
+    position: relative;
+    width: 36%;
+    top: -30px;
+}
+
+#enaaltson {
+    background-color: #F9F9F9;
+    position: relative;
+    width: 25%;
+    top: -30px;
+}
+
+.hakkinda i {
+    color: #a89574;
+}
+
+h6 {
+    color: white;
+}
